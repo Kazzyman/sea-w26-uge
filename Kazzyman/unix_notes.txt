@@ -1,2 +1,1 @@
-cd <path> Changes the working directory to <path>
-ls <path> Lists the directory content of <path>
+git remote
